@@ -18,7 +18,7 @@
 #define KIDNEY 1
 #define TEST 2
 
-#define IMAGE TEST
+#define IMAGE KIDNEY
 
 /* What is a basic "point" : a square or a point (see images in resources)
  */
