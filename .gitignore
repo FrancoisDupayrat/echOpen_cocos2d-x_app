@@ -62,28 +62,12 @@ xcuserdata
 
 # Generated files in the Android project #
 ######################
-proj.android/libs/armeabi/*
-proj.android/libs/armeabi-v7a/*
-proj.android/libs/x86/*
-proj.android/obj/*
-
-proj.android/res/raw/*
-proj.android/build/
-proj.android/gen/*
-proj.android/bin/*
-proj.android/assets/*
-
-proj.android/.gradle/*
-proj.android/.idea/*
-proj.android/*.iml
-proj.android/local.properties
-
-proj.android/libraries/*/build/
-proj.android/libraries/*/gen/*
-proj.android/libraries/*/bin/*
-proj.android/libraries/*/.idea/*
-proj.android/libraries/*/*.iml
-proj.android/libraries/*/local.properties
+libs/
+bin/
+obj/
+gen/
+assets/
+local.properties
 
 
 *.apk
